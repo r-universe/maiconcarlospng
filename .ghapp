@@ -1,10 +1,9 @@
 {
-  "id": 183461418,
-  "created_at": "2026-11-18T21:09:29.000Z",
-  "repository_selection": "selected",
+  "id": 183465264,
+  "created_at": "2026-11-18T21:24:31.000Z",
+  "repository_selection": "all",
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  },
-  "repositories": ["sisab-extrator"]
+  }
 }
